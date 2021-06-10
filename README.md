@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Nueron726
 
-I'm a Nueroscientist! The goal of our endeavor is to understand fully what consciousness is. If
-we understand something in science, then most of the time we can model or simulate it on a computer.
-I pursued a concentration in Computer Science to help me in this endeavor! Although AI is in a state 
-of infancy, I believe the individual advancements in different forms of cognitive AI will ultimately 
-bring into fruition AI equal or greater than the fidelity of human consciousness!
+As more complex problems emerge, so does the demand for the mastery of the material and comptuer sciences. When tackleing things like alzheimer's, having multidisciplinary knowledge is expected rather than required. Here, I'll display an array of projects in varying frameworks, mainly all tackling high level programming topics. I'll like to pursue a Neuro Post Graduate one day, or perhaps even some form of masters in AI research. Please, don't be afraid to contact me for more details! All of which can be exculsively found on my resume if you find yourself so lucky to be in the possesion of one!
 
